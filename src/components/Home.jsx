@@ -6,8 +6,7 @@ import AcordionSide from "./DetailsHome/AcordionSide";
 import Footer from "./DetailsHome/Footer";
 import Hometext from "./hometext.jsx";
 export default function Home (){
-    return <Container xs = {11} className='bg-light shadow-1-strong'>
-        <Row>
+    return <Row>
             <Col xs={window.screen.width<600?12:9} >
                 <PlanesImg></PlanesImg>
                 <CarouselHome/>
@@ -19,5 +18,5 @@ export default function Home (){
             <Footer/>
         </Row>
  
-    </Container>
+
 }

@@ -1,4 +1,4 @@
-import { Navbar } from 'react-bootstrap';
+import { Navbar, Container } from 'react-bootstrap';
 import { Route, Routes } from 'react-router';
 import './App.css';
 import NavBar from './components/NavBar';
@@ -14,6 +14,7 @@ function App() {
         <img src = {background}/>
       </div>
       <NavBar/>
+      <Container xs = {11} className='bg-light shadow-1-strong'>
       <Routes>
         <Route path="/" element={<Home/>}/>
       </Routes>
@@ -23,6 +24,7 @@ function App() {
       <Routes>
         <Route path="/sucursales" element={<Sucursales/>}/>
       </Routes>
+      </Container>
     </div>
   );
 }
