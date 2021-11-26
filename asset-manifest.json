@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/LucasSantillan0.github.io/BramedBuild/static/css/main.2d563ec5.chunk.css",
+    "main.js": "/LucasSantillan0.github.io/BramedBuild/static/js/main.9f85d7d3.chunk.js",
+    "main.js.map": "/LucasSantillan0.github.io/BramedBuild/static/js/main.9f85d7d3.chunk.js.map",
+    "runtime-main.js": "/LucasSantillan0.github.io/BramedBuild/static/js/runtime-main.3de26235.js",
+    "runtime-main.js.map": "/LucasSantillan0.github.io/BramedBuild/static/js/runtime-main.3de26235.js.map",
+    "static/css/2.383c0125.chunk.css": "/LucasSantillan0.github.io/BramedBuild/static/css/2.383c0125.chunk.css",
+    "static/js/2.ad2c7140.chunk.js": "/LucasSantillan0.github.io/BramedBuild/static/js/2.ad2c7140.chunk.js",
+    "static/js/2.ad2c7140.chunk.js.map": "/LucasSantillan0.github.io/BramedBuild/static/js/2.ad2c7140.chunk.js.map",
+    "static/js/3.017b9f21.chunk.js": "/LucasSantillan0.github.io/BramedBuild/static/js/3.017b9f21.chunk.js",
+    "static/js/3.017b9f21.chunk.js.map": "/LucasSantillan0.github.io/BramedBuild/static/js/3.017b9f21.chunk.js.map",
+    "index.html": "/LucasSantillan0.github.io/BramedBuild/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/LucasSantillan0.github.io/BramedBuild/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.2d563ec5.chunk.css.map": "/LucasSantillan0.github.io/BramedBuild/static/css/main.2d563ec5.chunk.css.map",
+    "static/js/2.ad2c7140.chunk.js.LICENSE.txt": "/LucasSantillan0.github.io/BramedBuild/static/js/2.ad2c7140.chunk.js.LICENSE.txt",
+    "static/media/Background.09461056.jpg": "/LucasSantillan0.github.io/BramedBuild/static/media/Background.09461056.jpg",
+    "static/media/banner_6.fbbafbac.jpg": "/LucasSantillan0.github.io/BramedBuild/static/media/banner_6.fbbafbac.jpg",
+    "static/media/banner_afiliados.d69dff59.png": "/LucasSantillan0.github.io/BramedBuild/static/media/banner_afiliados.d69dff59.png",
+    "static/media/banner_empleados.4e1ccb80.png": "/LucasSantillan0.github.io/BramedBuild/static/media/banner_empleados.4e1ccb80.png",
+    "static/media/banner_medios_de_pago.637870f9.png": "/LucasSantillan0.github.io/BramedBuild/static/media/banner_medios_de_pago.637870f9.png",
+    "static/media/banner_prestadores.bb39d555.png": "/LucasSantillan0.github.io/BramedBuild/static/media/banner_prestadores.bb39d555.png",
+    "static/media/boton_instructivo.09327abc.png": "/LucasSantillan0.github.io/BramedBuild/static/media/boton_instructivo.09327abc.png",
+    "static/media/btn_comecor.57c2407b.png": "/LucasSantillan0.github.io/BramedBuild/static/media/btn_comecor.57c2407b.png",
+    "static/media/btn_cosalud.70e8bc5e.png": "/LucasSantillan0.github.io/BramedBuild/static/media/btn_cosalud.70e8bc5e.png",
+    "static/media/btn_femegrecor.a4577cd8.png": "/LucasSantillan0.github.io/BramedBuild/static/media/btn_femegrecor.a4577cd8.png",
+    "static/media/imag_13.431a2ac1.jpg": "/LucasSantillan0.github.io/BramedBuild/static/media/imag_13.431a2ac1.jpg",
+    "static/media/imag_211.8dcc5464.jpg": "/LucasSantillan0.github.io/BramedBuild/static/media/imag_211.8dcc5464.jpg",
+    "static/media/pagomiscuentas.9e701887.jpg": "/LucasSantillan0.github.io/BramedBuild/static/media/pagomiscuentas.9e701887.jpg",
+    "static/media/plan_delta.42dc5bfd.jpg": "/LucasSantillan0.github.io/BramedBuild/static/media/plan_delta.42dc5bfd.jpg",
+    "static/media/plan_genesis.700069ea.jpg": "/LucasSantillan0.github.io/BramedBuild/static/media/plan_genesis.700069ea.jpg",
+    "static/media/plan_omega.9fe7433c.jpg": "/LucasSantillan0.github.io/BramedBuild/static/media/plan_omega.9fe7433c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3de26235.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.ad2c7140.chunk.js",
+    "static/css/main.2d563ec5.chunk.css",
+    "static/js/main.9f85d7d3.chunk.js"
+  ]
+}
